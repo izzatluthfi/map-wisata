@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/map-wisata/static/css/main.7d3b3bd2.css",
+    "main.js": "/map-wisata/static/js/main.6ecd08fd.js",
+    "static/js/979.9fd539ea.chunk.js": "/map-wisata/static/js/979.9fd539ea.chunk.js",
+    "static/js/68.8c743752.chunk.js": "/map-wisata/static/js/68.8c743752.chunk.js",
+    "static/js/846.9f4c9cc3.chunk.js": "/map-wisata/static/js/846.9f4c9cc3.chunk.js",
+    "static/js/862.fcd3a8b8.chunk.js": "/map-wisata/static/js/862.fcd3a8b8.chunk.js",
+    "static/js/787.a4b70ff8.chunk.js": "/map-wisata/static/js/787.a4b70ff8.chunk.js",
+    "static/css/721.9e9d3e20.chunk.css": "/map-wisata/static/css/721.9e9d3e20.chunk.css",
+    "static/js/721.a182ab2d.chunk.js": "/map-wisata/static/js/721.a182ab2d.chunk.js",
+    "static/js/783.3f6e75a0.chunk.js": "/map-wisata/static/js/783.3f6e75a0.chunk.js",
+    "static/js/402.eecbb7d6.chunk.js": "/map-wisata/static/js/402.eecbb7d6.chunk.js",
+    "service-worker.js": "/map-wisata/service-worker.js",
+    "index.html": "/map-wisata/index.html",
+    "main.7d3b3bd2.css.map": "/map-wisata/static/css/main.7d3b3bd2.css.map",
+    "main.6ecd08fd.js.map": "/map-wisata/static/js/main.6ecd08fd.js.map",
+    "979.9fd539ea.chunk.js.map": "/map-wisata/static/js/979.9fd539ea.chunk.js.map",
+    "68.8c743752.chunk.js.map": "/map-wisata/static/js/68.8c743752.chunk.js.map",
+    "846.9f4c9cc3.chunk.js.map": "/map-wisata/static/js/846.9f4c9cc3.chunk.js.map",
+    "862.fcd3a8b8.chunk.js.map": "/map-wisata/static/js/862.fcd3a8b8.chunk.js.map",
+    "787.a4b70ff8.chunk.js.map": "/map-wisata/static/js/787.a4b70ff8.chunk.js.map",
+    "721.9e9d3e20.chunk.css.map": "/map-wisata/static/css/721.9e9d3e20.chunk.css.map",
+    "721.a182ab2d.chunk.js.map": "/map-wisata/static/js/721.a182ab2d.chunk.js.map",
+    "783.3f6e75a0.chunk.js.map": "/map-wisata/static/js/783.3f6e75a0.chunk.js.map",
+    "402.eecbb7d6.chunk.js.map": "/map-wisata/static/js/402.eecbb7d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d3b3bd2.css",
+    "static/js/main.6ecd08fd.js"
+  ]
+}
