@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/map-wisata/static/css/main.7d3b3bd2.css",
-    "main.js": "/map-wisata/static/js/main.6ecd08fd.js",
-    "static/js/979.9fd539ea.chunk.js": "/map-wisata/static/js/979.9fd539ea.chunk.js",
-    "static/js/68.8c743752.chunk.js": "/map-wisata/static/js/68.8c743752.chunk.js",
-    "static/js/846.9f4c9cc3.chunk.js": "/map-wisata/static/js/846.9f4c9cc3.chunk.js",
+    "main.js": "/map-wisata/static/js/main.00d3f902.js",
+    "static/js/979.c40b3357.chunk.js": "/map-wisata/static/js/979.c40b3357.chunk.js",
+    "static/js/68.d56bf3d1.chunk.js": "/map-wisata/static/js/68.d56bf3d1.chunk.js",
+    "static/js/846.850560dd.chunk.js": "/map-wisata/static/js/846.850560dd.chunk.js",
     "static/js/862.fcd3a8b8.chunk.js": "/map-wisata/static/js/862.fcd3a8b8.chunk.js",
     "static/js/787.a4b70ff8.chunk.js": "/map-wisata/static/js/787.a4b70ff8.chunk.js",
     "static/css/721.9e9d3e20.chunk.css": "/map-wisata/static/css/721.9e9d3e20.chunk.css",
     "static/js/721.a182ab2d.chunk.js": "/map-wisata/static/js/721.a182ab2d.chunk.js",
     "static/js/783.3f6e75a0.chunk.js": "/map-wisata/static/js/783.3f6e75a0.chunk.js",
     "static/js/402.eecbb7d6.chunk.js": "/map-wisata/static/js/402.eecbb7d6.chunk.js",
+    "static/js/442.b1cec2ec.chunk.js": "/map-wisata/static/js/442.b1cec2ec.chunk.js",
     "service-worker.js": "/map-wisata/service-worker.js",
     "index.html": "/map-wisata/index.html",
     "main.7d3b3bd2.css.map": "/map-wisata/static/css/main.7d3b3bd2.css.map",
-    "main.6ecd08fd.js.map": "/map-wisata/static/js/main.6ecd08fd.js.map",
-    "979.9fd539ea.chunk.js.map": "/map-wisata/static/js/979.9fd539ea.chunk.js.map",
-    "68.8c743752.chunk.js.map": "/map-wisata/static/js/68.8c743752.chunk.js.map",
-    "846.9f4c9cc3.chunk.js.map": "/map-wisata/static/js/846.9f4c9cc3.chunk.js.map",
+    "main.00d3f902.js.map": "/map-wisata/static/js/main.00d3f902.js.map",
+    "979.c40b3357.chunk.js.map": "/map-wisata/static/js/979.c40b3357.chunk.js.map",
+    "68.d56bf3d1.chunk.js.map": "/map-wisata/static/js/68.d56bf3d1.chunk.js.map",
+    "846.850560dd.chunk.js.map": "/map-wisata/static/js/846.850560dd.chunk.js.map",
     "862.fcd3a8b8.chunk.js.map": "/map-wisata/static/js/862.fcd3a8b8.chunk.js.map",
     "787.a4b70ff8.chunk.js.map": "/map-wisata/static/js/787.a4b70ff8.chunk.js.map",
     "721.9e9d3e20.chunk.css.map": "/map-wisata/static/css/721.9e9d3e20.chunk.css.map",
@@ -27,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.7d3b3bd2.css",
-    "static/js/main.6ecd08fd.js"
+    "static/js/main.00d3f902.js"
   ]
 }
