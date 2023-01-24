@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/map-wisata/static/css/main.7d3b3bd2.css",
-    "main.js": "/map-wisata/static/js/main.992d2755.js",
+    "main.js": "/map-wisata/static/js/main.3fe2b683.js",
     "static/js/979.c40b3357.chunk.js": "/map-wisata/static/js/979.c40b3357.chunk.js",
     "static/js/68.d56bf3d1.chunk.js": "/map-wisata/static/js/68.d56bf3d1.chunk.js",
     "static/js/846.850560dd.chunk.js": "/map-wisata/static/js/846.850560dd.chunk.js",
@@ -11,11 +11,11 @@
     "static/js/721.a182ab2d.chunk.js": "/map-wisata/static/js/721.a182ab2d.chunk.js",
     "static/js/783.3f6e75a0.chunk.js": "/map-wisata/static/js/783.3f6e75a0.chunk.js",
     "static/js/402.eecbb7d6.chunk.js": "/map-wisata/static/js/402.eecbb7d6.chunk.js",
-    "static/js/442.79a9cae8.chunk.js": "/map-wisata/static/js/442.79a9cae8.chunk.js",
+    "static/js/442.9209c714.chunk.js": "/map-wisata/static/js/442.9209c714.chunk.js",
     "service-worker.js": "/map-wisata/service-worker.js",
     "index.html": "/map-wisata/index.html",
     "main.7d3b3bd2.css.map": "/map-wisata/static/css/main.7d3b3bd2.css.map",
-    "main.992d2755.js.map": "/map-wisata/static/js/main.992d2755.js.map",
+    "main.3fe2b683.js.map": "/map-wisata/static/js/main.3fe2b683.js.map",
     "979.c40b3357.chunk.js.map": "/map-wisata/static/js/979.c40b3357.chunk.js.map",
     "68.d56bf3d1.chunk.js.map": "/map-wisata/static/js/68.d56bf3d1.chunk.js.map",
     "846.850560dd.chunk.js.map": "/map-wisata/static/js/846.850560dd.chunk.js.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.7d3b3bd2.css",
-    "static/js/main.992d2755.js"
+    "static/js/main.3fe2b683.js"
   ]
 }
